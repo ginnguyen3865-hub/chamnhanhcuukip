@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chạm Nhanh Cứu Kịp | Các tình huống thường gặp</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">+</span>
+      <span>Chạm Nhanh Cứu Kịp</span>
+    </a>
+    <nav class="nav-links" aria-label="Điều hướng chính">
+      <a href="index.html">Giới thiệu</a>
+      <a class="active" href="situations.html">Tình huống</a>
+      <a href="#techniques">Kỹ thuật</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-title">
+      <span class="section-label">Menu chính</span>
+      <h1>Các tình huống thường gặp</h1>
+      <p>Bạn đang gặp tình huống gì? Gõ từ khóa để tìm nhanh hướng dẫn phù hợp.</p>
+      <label class="search-box" for="searchInput">
+        <span>Tìm kiếm</span>
+        <input id="searchInput" type="search" placeholder="Ví dụ: bỏng, hóc, đuối nước, ngộ độc...">
+      </label>
+    </section>
+
+    <section class="section">
+      <div id="situationGrid" class="card-grid" aria-live="polite"></div>
+      <p id="emptyState" class="empty-state" hidden>Chưa tìm thấy tình huống phù hợp. Hãy thử từ khóa khác.</p>
+    </section>
+
+    <section id="techniques" class="section technique-section">
+      <span class="section-label">Kỹ thuật sơ cứu</span>
+      <h2>Các kỹ thuật cần biết</h2>
+      <div id="techniqueGrid" class="technique-grid"></div>
+    </section>
+
+    <section class="section knowledge-section">
+      <span class="section-label">Góc kiến thức</span>
+      <h2>Thông tin cần nhớ</h2>
+      <div class="knowledge-grid">
+        <article>
+          <h3>Túi sơ cứu cần có gì?</h3>
+          <p>Gạc vô khuẩn, băng cuộn, băng dính y tế, kéo, găng tay, nước muối sinh lý, dung dịch sát khuẩn, khăn sạch.</p>
+        </article>
+        <article>
+          <h3>Số điện thoại khẩn cấp</h3>
+          <p><strong>115</strong> cấp cứu y tế, <strong>114</strong> cứu hỏa cứu nạn, <strong>113</strong> công an.</p>
+        </article>
+        <article>
+          <h3>Kiểm tra nhịp thở</h3>
+          <p>Quan sát lồng ngực, lắng nghe hơi thở và cảm nhận luồng khí trong tối đa 10 giây.</p>
+        </article>
+        <article>
+          <h3>Khi nào không nên di chuyển?</h3>
+          <p>Không tự ý di chuyển khi nghi chấn thương cột sống, chấn thương đầu nặng, gãy xương lớn hoặc nạn nhân đau dữ dội.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Thông tin trên website không thay thế hướng dẫn của nhân viên y tế.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
