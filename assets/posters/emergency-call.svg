@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa gọi 115</title>
+  <desc id="desc">Điện thoại gọi số cấp cứu 115.</desc>
+  <rect width="1280" height="720" fill="#fffaf4"/>
+  <rect x="476" y="110" width="328" height="500" rx="48" fill="#17202a"/>
+  <rect x="514" y="168" width="252" height="342" rx="24" fill="#fff"/>
+  <circle cx="640" cy="558" r="22" fill="#e5e7eb"/>
+  <text x="574" y="330" fill="#c91f31" font-family="Arial, sans-serif" font-size="92" font-weight="700">115</text>
+  <circle cx="640" cy="416" r="54" fill="#0f766e"/>
+  <path d="M614 397c18 50 58 52 66 20" stroke="#fff" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M918 210c54 44 84 106 84 174s-30 130-84 174M362 210c-54 44-84 106-84 174s30 130 84 174" stroke="#c91f31" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Gọi cấp cứu</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Bấm 115 khi có dấu hiệu nặng</text>
+</svg>

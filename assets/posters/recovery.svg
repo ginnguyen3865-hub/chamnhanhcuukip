@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa tư thế hồi phục</title>
+  <desc id="desc">Nạn nhân nằm nghiêng ở tư thế hồi phục.</desc>
+  <rect width="1280" height="720" fill="#f0fdfa"/>
+  <rect y="520" width="1280" height="200" fill="#d6f0e7"/>
+  <ellipse cx="640" cy="546" rx="390" ry="60" fill="#0f766e" opacity=".12"/>
+  <circle cx="770" cy="378" r="62" fill="#f2c19a"/>
+  <rect x="448" y="392" width="330" height="96" rx="48" fill="#0f766e"/>
+  <rect x="570" y="474" width="240" height="68" rx="34" fill="#f2c19a" transform="rotate(20 690 508)"/>
+  <rect x="412" y="474" width="230" height="68" rx="34" fill="#f2c19a" transform="rotate(-24 527 508)"/>
+  <path d="M826 380c44 36 54 88 28 132" stroke="#f97316" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <path d="M908 456l-50 67-30-78" fill="none" stroke="#f97316" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Hồi phục</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Đặt nằm nghiêng an toàn</text>
+</svg>

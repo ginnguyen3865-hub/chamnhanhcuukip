@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa theo dõi nhịp thở</title>
+  <desc id="desc">Biểu tượng phổi và nhịp thở dùng cho kỹ thuật theo dõi hô hấp.</desc>
+  <rect width="1280" height="720" fill="#eefdf9"/>
+  <path d="M640 188v230" stroke="#17202a" stroke-width="28" stroke-linecap="round"/>
+  <path d="M622 284c-104-128-238-40-238 114 0 95 50 160 124 160 82 0 114-82 114-184z" fill="#38bdf8"/>
+  <path d="M658 284c104-128 238-40 238 114 0 95-50 160-124 160-82 0-114-82-114-184z" fill="#0f766e"/>
+  <path d="M330 260c42-52 96-78 162-78M950 260c-42-52-96-78-162-78" stroke="#c91f31" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <path d="M300 314l34-60 59 36M980 314l-34-60-59 36" fill="none" stroke="#c91f31" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Nhịp thở</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Quan sát, nghe và cảm nhận</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa AED</title>
+  <desc id="desc">Máy AED với miếng dán điện cực và biểu tượng nhịp tim.</desc>
+  <rect width="1280" height="720" fill="#eefdf9"/>
+  <rect x="410" y="170" width="460" height="360" rx="40" fill="#0f766e"/>
+  <rect x="472" y="236" width="336" height="104" rx="18" fill="#17202a"/>
+  <path d="M504 289h70l30-42 48 86 38-44h84" stroke="#f7b731" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="548" cy="430" r="54" fill="#fff"/>
+  <circle cx="730" cy="430" r="54" fill="#c91f31"/>
+  <path d="M716 430h28M730 416v28" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M392 454c-88 28-142 78-166 151M890 454c88 28 142 78 166 151" stroke="#17202a" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">AED</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Máy khử rung tim tự động</text>
+</svg>

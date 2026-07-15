@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa cứu hộ đuối nước</title>
+  <desc id="desc">Phao cứu sinh và sóng nước dùng cho tình huống đuối nước.</desc>
+  <rect width="1280" height="720" fill="#e0f2fe"/>
+  <path d="M0 470c160-70 260 70 420 0s260 70 420 0 280 70 440 0v250H0z" fill="#38bdf8"/>
+  <circle cx="640" cy="350" r="166" fill="#fff"/>
+  <circle cx="640" cy="350" r="92" fill="#e0f2fe"/>
+  <path d="M522 232l70 70M758 232l-70 70M522 468l70-70M758 468l-70-70" stroke="#c91f31" stroke-width="58" stroke-linecap="round"/>
+  <path d="M366 522c82 34 158 34 238 0M676 522c82 34 158 34 238 0" stroke="#fff" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Đuối nước</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Cứu hộ an toàn và kiểm tra thở</text>
+</svg>

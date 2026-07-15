@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa xử trí nhiệt độ</title>
+  <desc id="desc">Nhiệt kế, giọt nước và khăn dùng cho làm mát hoặc ủ ấm.</desc>
+  <rect width="1280" height="720" fill="#fff7ed"/>
+  <circle cx="466" cy="374" r="132" fill="#f7b731" opacity=".28"/>
+  <path d="M722 140c72 100 132 164 132 260 0 106-86 192-192 192s-192-86-192-192c0-96 60-160 132-260z" fill="#38bdf8"/>
+  <rect x="670" y="204" width="92" height="288" rx="46" fill="#fff"/>
+  <circle cx="716" cy="492" r="68" fill="#c91f31"/>
+  <path d="M716 242v220" stroke="#c91f31" stroke-width="28" stroke-linecap="round"/>
+  <path d="M374 438c58 32 118 32 178 0" stroke="#0f766e" stroke-width="24" fill="none" stroke-linecap="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Nhiệt độ</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Làm mát hoặc ủ ấm đúng cách</text>
+</svg>

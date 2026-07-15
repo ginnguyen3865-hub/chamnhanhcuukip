@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa sơ cấp cứu</title>
+  <desc id="desc">Túi sơ cứu và số cấp cứu 115.</desc>
+  <rect width="1280" height="720" fill="#fffaf4"/>
+  <rect x="416" y="246" width="448" height="294" rx="42" fill="#fff" stroke="#ead9c7" stroke-width="12"/>
+  <path d="M540 246v-70h200v70" stroke="#0f766e" stroke-width="32" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M640 326v132M574 392h132" stroke="#c91f31" stroke-width="48" stroke-linecap="round"/>
+  <circle cx="918" cy="232" r="70" fill="#0f766e"/>
+  <text x="872" y="252" fill="#fff" font-family="Arial, sans-serif" font-size="48" font-weight="700">115</text>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Sơ cấp cứu</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Xem kỹ thuật và gọi hỗ trợ khi cần</text>
+</svg>

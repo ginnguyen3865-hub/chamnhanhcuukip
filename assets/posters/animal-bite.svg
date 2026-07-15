@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa động vật và côn trùng</title>
+  <desc id="desc">Vết cắn hoặc đốt được rửa sạch và che phủ.</desc>
+  <rect width="1280" height="720" fill="#fffaf4"/>
+  <rect x="246" y="378" width="720" height="126" rx="63" fill="#f2bb91"/>
+  <circle cx="528" cy="438" r="20" fill="#c91f31"/>
+  <circle cx="590" cy="438" r="20" fill="#c91f31"/>
+  <rect x="668" y="334" width="186" height="134" rx="24" fill="#fff" stroke="#e5e7eb" stroke-width="10"/>
+  <path d="M728 401h66M761 368v66" stroke="#0f766e" stroke-width="22" stroke-linecap="round"/>
+  <path d="M422 244c82 56 118 101 118 148" stroke="#17202a" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <path d="M380 232c38-22 82-20 124 6" stroke="#17202a" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Vết cắn/đốt</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Rửa sạch, che phủ, theo dõi dị ứng</text>
+</svg>

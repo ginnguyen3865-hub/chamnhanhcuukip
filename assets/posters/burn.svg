@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa rửa bỏng</title>
+  <desc id="desc">Vùng da bị bỏng được làm mát dưới vòi nước sạch.</desc>
+  <rect width="1280" height="720" fill="#fff7ed"/>
+  <rect x="110" y="432" width="760" height="108" rx="54" fill="#f2bb91"/>
+  <path d="M516 436c36-54 112-53 148 1 21 32 7 80-31 96-30 13-55 1-79-18-30 17-63 21-92-2-35-29-29-78 54-77z" fill="#ef4444"/>
+  <path d="M632 92h210c38 0 68 30 68 68v72" stroke="#0f766e" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <rect x="824" y="222" width="144" height="48" rx="24" fill="#0f766e"/>
+  <path d="M840 294c-20 36-20 58 0 88M892 294c-20 36-20 58 0 88M944 294c-20 36-20 58 0 88" stroke="#38bdf8" stroke-width="24" stroke-linecap="round"/>
+  <path d="M540 482c24-22 52-22 83 0" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".8"/>
+  <text x="72" y="94" fill="#941728" font-family="Arial, sans-serif" font-size="52" font-weight="700">Bỏng</text>
+  <text x="72" y="150" fill="#17202a" font-family="Arial, sans-serif" font-size="30" font-weight="700">Làm mát bằng nước sạch</text>
+</svg>
